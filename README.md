@@ -1,6 +1,1 @@
-# rofage
-Automatically exported from code.google.com/p/rofage
-
-Java ROM Manager.
-
-Works with Advanscene Lists.
+[Moved to https://codeberg.org/Parigot-Manchot/rofage](Moved to https://codeberg.org/Parigot-Manchot/rofage)
